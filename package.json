@@ -1,0 +1,29 @@
+{
+  "name": "quick-help-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "babel-node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonsieurWave/quick-help-ai.git"
+  },
+  "author": "Julian Klug",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonsieurWave/quick-help-ai/issues"
+  },
+  "homepage": "https://github.com/MonsieurWave/quick-help-ai#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "gpt3": "^2.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.11.5"
+  }
+}

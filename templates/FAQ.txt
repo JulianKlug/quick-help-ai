@@ -1,0 +1,18 @@
+Q: Wie kann ich eine oder mehrere WLAN Plus Boxen bestellen?
+A: Alle Informationen dazu findest du auf unserer Homepage:
+https://quickline.ch/internet/wlan-plus
+
+Q: Gibt es erweiterte Informationen und Spezifikationen zu den Geräten?
+A: Ja, diese sind hier zu finden: https://airties.com/product-4930.html
+
+Q: Gibt es eine maximale Anzahl mobiler Endgeräte die an einer WLAN Plus Box betrieben werden können?
+A: Es können maximal 128 mobile Geräte gleichzeitig an einer WLAN Plus Box genutzt werden.
+
+Q: Wird bei der zeitgesteuerten Abschaltung das Netzwerk vollumfänglich deaktiviert?
+A: Ja, das Netzwerk wird komplett ausgeschaltet.
+
+Q: Kann ich auf die WLAN Plus Boxen zugreifen, wenn sich das Netzwerk im Energiesparmodus befindet?
+A: Ja, mittels WPS Tastendruck auf allen WLAN Plus Boxen kann das Netzwerk in den aktiven Modus geschaltet werden.
+
+Q: Die Quickline UHD Box ist via Ethernet an der WLAN Plus Box angeschlossen. Soll eine statische IP Einstellung oder DHCP gewählt werden?
+A: Wir empfehlen die DHCP Einstellung.
