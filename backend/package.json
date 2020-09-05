@@ -2,9 +2,9 @@
   "name": "quick-help-ai",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
-    "start": "babel-node app.js",
+    "start": "babel-node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,7 +19,10 @@
   "homepage": "https://github.com/MonsieurWave/quick-help-ai#readme",
   "dependencies": {
     "axios": "^0.20.0",
-    "gpt3": "^2.1.1"
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "gpt3": "^2.1.1",
+    "react": "^16.13.1"
   },
   "devDependencies": {
     "@babel/core": "^7.11.6",

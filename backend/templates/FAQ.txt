@@ -79,3 +79,165 @@ A: Achte darauf, dass du die Powerline Adapter direkt an der Steckdose anschlies
 
 Q: Wie verhalten sich Powerline Geräte bei Überspannung (z.B. Blitzeinschlag)?
 A: Powerline Produkte sind immer sicher, d.h. es geht auch im Fall einer Überspannung niemals eine Gefährdung von den Geräten aus. In seltenen Fällen können örtliche Überspannungsereignisse (z.B. naher Blitzeinschlag) oberhalb des definierten Spannungspegels liegen. In diesen Fällen fungiert ein im Powerline Produkt verbauter Überspannungsschutz, um weitere Schäden zu verhindern, sofern deine Geräte wie PC, Smartphone usw. mit einer Steckdosenleiste am Adapter angeschlossen sind. Der Powerline Adapter verliert dadurch aber in der Regel die Funktion.
+
+Q: Wie erhalte ich eine IPv6 Präfix ID?
+A: Die IPv6 Präfix ID ist bei allen Kunden mit HF-Anschlüssen automatisch aktiv und ist kostenfrei. Ebenso bei GPON FttH-Anschlüssen mit Huawei CPE. Bei P2P FttH Anschlüssen mit Genexis CPE ist IPv6 möglich, aber fixe IPv6 nicht.
+
+Q: Wie installiere ich mein Modem?
+A: Sobald dein Modem an der Dreiloch- / Glasfaser-Dose angeschlossen ist und du deinen Computer mit dem Netzwerkkabel verbunden hast, kannst du ohne weitere Installationen eine Verbindung mit dem Internet herstellen. Der Aufschaltprozess des Modems kann einige Zeit dauern, bevor eine Verbindung mit dem Internet hergestellt werden kann.
+
+Q: Was bedeutet Down- und Upload?
+A: Das sind Referenzwerte für die Geschwindigkeit, mit welcher das Endgerät Daten herunter- bzw. heraufladen kann. Es ist zu beachten, dass beim Einsatz von Drahtlosverbindungen die Geschwindigkeit reduziert wird. Ebenso kann es vorkommen, dass ältere Geräte Geschwindigkeitseinbussen verzeichnen können.
+
+Q: Erreiche ich den Speed, den ich haben sollte?
+A: Du hast die Möglichkeit, einen Speedtest durchzuführen, um zu sehen, ob die Geschwindigkeit die du aktuell erreichst, auch deinem bestehenden Abo entspricht. Den Speedtest findest du hier: https://quickline.ch/internet/speed-test
+
+Q: Wie kann ich die Qualität meines WLAN-Empfangs verbessern?
+A: Nachfolgend bieten wir dir eine kostenlose Software an, um den Empfang des WLAN-Signales zu kalibrieren und verbessern. Mit dem WLAN-Optimizer verbesserst du die Leistung und Qualität des drahtlosen Internetzugangs. Quickline stellt das Tool kostenlos zur Verfügung. Die Software analysiert dein eigenes und die WLAN-Netze in der Umgebung und legt auf deinen Wunsch den besten Kanal fest. So profitierst du von höherer Qualität und Geschwindigkeit beim Empfang der Daten. Es ist keine vorgängige Installation nötig, um den WLAN-Optimizer zu nützen.
+
+Q: Wie gelange ich zum neuen Web-TV?
+A: Das neue Web-TV ist über den bisherigen Link erreichbar.
+
+Q: Wie kann ich helfen, das Web-TV zu verbessern?
+A: Die App wird nun erstmals von einem internen Software-Team weiter entwickelt. Wir hoffen dadurch den Input der Community schneller und besser umsetzen zu können als in der Vergangenheit. Wir freuen uns über positives Feedback genauso wie über Fehlermeldungen und Feature Wünsche, damit wir unsere neue Web-TV Lösung gemeinsam voranbringen können. Für ausführliche Feedbacks darf gerne das folgende Formular genutzt werden: https://content.quickline.ch/WebTV-Feedback/
+
+Q: Benötige ich ein Plugin?
+A: Nein, das neue Web-TV funktioniert ohne ein zusätzliches Plugin.
+
+Q: Mit welchen Browsern ist das Web-TV kompatibel?
+A:Die App ist optimiert für Google Chrome und Safari. Firefox und Edge folgen so bald wie möglich.
+
+Q: Wo finde ich die Suchfunktion?
+A: Die Suchfunktion ist aktuell noch in Entwicklung und wird nachgereicht.
+
+Q: Kann ich mein Profil bearbeiten?
+A: Diese Funktion ist aktuell nur via Quickline TV Box und in den Mobile Apps verfügbar. Bestehende Profile können jedoch mit dem neuen Web-TV verwendet werden.
+
+Q: Wo kann ich Senderlisten erstellen oder auswählen?
+A: Das Erstellen von Senderlisten und die Anzeige von gespeicherten Senderlisten ist noch nicht möglich, wird aber noch integriert.
+
+Q: Wieso kann ich die Sender aus meinen Senderpaketen nicht anschauen?
+A: Die abonnierten Sender können nur via TV Box oder Mobile Apps angeschaut werden.
+
+Q: Wieso kann ich keine VoD Filme mieten und anschauen?
+A: VoD Filme sind mit dem neuen Web-TV noch nicht verfügbar.
+
+Q: Was kann ich machen, wenn ich hier die Antwort auf meine Frage nicht finde?
+A: Stelle deine Frage hier in der Community und profitiere von den Erfahrungswerten anderer Kunden.
+
+Q: Wie kann ich prüfen ob die Firmware der Box auf dem aktuellsten Stand ist?
+A:Auf dem Android Startbildschirm zu "Einstellungen" navigieren und mit "OK" bestätigen. Die Option "Info" auswählen und mit "OK" bestätigen. Hier zu "System Verbesserung" navigieren und mit "OK" bestätigen. Bei "Neue Version installieren" mit "OK" bestätigen
+
+Q: Wie kann ich prüfen ob die Quickline TV App auf dem aktuellsten Stand ist?
+A: Auf dem Android Startbildschirm zu "Einstellungen" navigieren und mit "OK" bestätigen. Die Option "Info" auswählen und mit "OK" bestätigen. Hier zu "Aktualisierung der TV App" und mit "OK" bestätigen. Bei "Auf Update überprüfen" mit "OK" bestätigen
+
+Q: Wie kann ich Quickline TV App manuell beenden:
+A: 2x auf die Home-Taste (Kreis) der Fernbedienung drücken; "Quickline TV" App auswählen. Nach unten zum "x" Zeichen navigieren. Mit "Ok" bestätigen
+
+Q: Wie kann ich die Box rebooten?
+A: Die Box für 10 Sekunden von der Stromzufuhr trennen. Box erneut mit der Stromzufuhr verbinden
+
+Q: Wie kann ich andere Apps im Hintergrund schliessen?
+A: 2x auf die Home-Taste (Kreis) der Fernbedienung drücken. Aktuell nicht genutzte Apps (z.B. Youtube, Netflix) auswählen. Nach unten zum "x" Zeichen navigieren. Mit "Ok" bestätigen
+
+Q: Wie kann ich Daten der App löschen?
+A: Auf dem Android-Starbildschirm ganz nach unten navigieren. Bei "Einstellungen" (Zahnrad) mit "OK" bestätigen. In der Kategorie "Gerät" zur Option "Apps" navigieren und mit "OK" bestätigen. Nach unten scrollen bis zur "Quickline TV" App und mit "OK" bestätigen. Zu "Daten löschen" navigieren und mit "OK" bestätigen
+
+Q: Wie kann ich die App deaktivieren und reaktivieren?
+A: Auf dem Android-Starbildschirm ganz nach unten navigieren. Bei "Einstellungen" (Zahnrad) mit "OK" bestätigen. In der Kategorie "Gerät" zur Option "Apps" navigieren und mit "OK" bestätigen. Nach unten scrollen bis zur "Quickline TV" App und mit "OK" bestätigen. Option "Deaktivieren"/"Aktivieren" mit "OK" bestätigen
+
+Q: Wie kann ich den Quickline Kundendienst kontaktieren?
+A: Falls die vorherigen Schritte nicht geholfen haben, sollte der Quickline Kundendienst kontaktiert werden, um weitere Schritte einzuleiten. Dies ist sowohl telefonisch, wie auch per Kontaktformular auf der Homepage möglich. Telefonnummer der Hotline: 0800 84 10 20. Kontaktformular: https://www.quickline.ch/service-support/support-kontakt/support-tech
+
+Q: Wie wird die UHD-Box installiert?
+A: Zur erfolgreichen Inbetriebnahme verwendest du am besten die beigelegte Anleitung. Falls diese nicht mehr vorhanden ist, findest du sie auch unter diesem Link
+
+Q: Wo finde ich erweiterte Informationen zu den Funktionen der Box?
+A: Auf unserer Homepage findest du ein ausführliches Handbuch zum neuen Quickline TV.
+
+Q: Muss ich einen Google-Account haben, um die Quickline UHD Box zu nutzen?
+A: Wir empfehlen, sich während der Erstinbetriebnahme mit einem bestehenden Google Konto (kostenlos) anzumelden.
+
+Q: Kann ich das neue Quickline TV auch auf meinem Computer im Browser nutzen?
+A: Ja, nutze dafür folgenden Link: http://tv.quickline.ch
+
+Q: Wo kann ich mich über das neue Quickline TV informieren?
+A: Auf unserer Homepage findest du alle Informationen zum neuen Quickline TV: https://www.quickline.ch/fernsehen
+
+Q: Mit welchem Quickline Abo erhalte ich die Quickline UHD Box?
+A: Kunden mit einem Smart TV S und M können die Quickline UHD Box erhalten. Kunden mit einem All in One Abo mit Quickline TV welche eine Quickline UHD Box wünschen, können auf dem All in One Abo bleiben und müssen somit nicht zwingend auf das neue Produktportfolio “Smart- Abo” wechseln.
+
+Q: Kann ich mein altes Quickline Abo für die Quickline UHD Box behalten?
+A: Verte! Kunden mit einem All in One 1.0 Abo müssen auf ein Smart-Abo wechseln. Verte! Kunden mit anderweitigen Abonnement müssen auf ein Smart Abo wechseln.
+
+Q: Was kostet mich der Wechsel von der Quickline Box zur Quickline UHD Box?
+A: Der Wechsel von der bisherigen Quickline Box auf die Quickline UHD Box ist kostenlos.
+
+Q: Wo finde ich erweiterte Informationen zu den Funktionen der Box?
+A: Auf unserer Homepage findest du ein ausführliches Handbuch zum neuen Quickline TV: Das neue Quickline TV - Benutzerhandbuch
+
+Q: Kann ich eine Zweit-Box bestellen?
+A: Ja, direkt bei der Bestellung der Quickline UHD Box oder im Nachhinein im Kundenportal Cockpit können bis zu fünf weitere Quickline UHD Boxen bestellt werden. Für jede zusätzliche Box werden 10.- monatlich verrechnet. Wende dich bei Fragen an unseren Kundendienst oder den lokalen Quickline Partner.
+
+Q: Was ist die My Page?
+A: My Page bietet alle Vorteile einer elektronischen Programmzeitschrift und ist zudem persönlich auf dich zugeschnitten. Jede Person, die ein Profil erstellt hat, erhält ihre eigene My Page. Diese Informationen sind auf einer Seite übersichtlich für dich zusammengestellt.
+
+Q: Wie kopple ich meine Bluetooth Fernbedienung mit der Quickline UHD Box?
+A: Dieser Vorgang ist nur während der Erstinstallation oder nach dem Austausch der Fernbedienung erforderlich:
+Drücke gleichzeitig für mindestens 5 Sekunden die Tasten “OK” und “Home” auf der Quickline TV Fernbedienung.
+Danach kann der Verbindungsaufbau einige Sekunden benötigen. Anschliessend ist die Fernbedienung mit der Quickline UHD Box verbunden.
+
+Q: Was kann ich machen, wenn meine Fernbedienung ständig die Verbindung zur UHD-Box verliert?
+A: Drücke die Taste «Home». So gelangst du zur Android TV Startseite.
+Navigieren mit dem Steuerkreuz auf der Fernbedienung zu «Einstellungen» ganz unten links (Zahnradsymbol) und drücke die Taste «OK». Das Menü «Einstellungen» öffnet sich.
+Navigiere auf den Menüpunkt «Apps» und drücke die Taste «OK».
+Navigiere im Bereich «Apps» bis zum Eintrag «Chromecast integriert» und drücke die Taste «OK».
+Navigiere zum Punkt «Deaktivieren» und drücke die Taste «OK».
+Bestätigen durch erneutes Drücken der Taste «OK», dass du Chromecast deaktivieren willst.
+Drücke die Taste «Q» auf der Fernbedienung, um wieder in die Quickline TV App zu gelangen.
+Es ist normal, dass die Fernbedienung die Verbindung nach 1-2 Minuten noch einmal verliert. Bitte drücke dann den Wireless-Knopf auf der rechten Seite der Box und halte diesen mindestens 5 Sekunden, bis die Anleitung zum weiteren Vorgehen auf dem TV erscheint.
+Führe die Schritte gemäss Anleitung auf dem TV aus.
+
+Q: Meine Fernbedienung reagiert nicht mehr, was kann ich tun?
+A: 1.) Fernbedienung erneut verbinden
+2.) Fernbedienung zurücksetzen
+3.) Batterien der Fernbedienung austauschen
+
+Q: Kann ich meine Logitech Harmony Fernbedienung mit der UHD-Box verwenden?
+A: Ja, man kann auf Logitech die Codes für die Harmony Fernbedienung downloaden. Die Codes sind die gleichen wie schon bei der vorherigen Quickline TV Box. Quickline bietet allerdings keinen Support für externe Hardware.
+
+Q: Kann ich die Fernbedienung der Quickline TV UHD Box auch zur Steuerung meines TV-Geräts verwenden?
+A: Ja, du kannst die Fernbedienung der Quickline UHD Box auch nutzen, um das TV Gerät ein-/auszuschalten und die Lautstärke zu regeln. Nutze dafür folgende Anleitung: Fernbedienung mit TV koppeln
+
+Q: Wie erhalte ich mehr Informationen zu den Sendungen im TV-Guide?
+A: Wähle die gewünschte Sendung mittels «OK» von deiner Fernbedienung aus.
+
+Q: Kann ich im TV-Guide auch nur die Sender aus meiner Senderliste anzeigen lassen?
+A: Falls du deine persönliche Senderliste aktiviert hast, erscheinen im Menü «TV-Guide» nur die Sendungen aus der von dir erstellten Senderliste
+
+Q: Wie kann ich Filme mieten?
+A: Empfohlene Filme der My Page kannst du über die Detailseite des Filmes gemietet werden. Das ganze Film-Sortiment steht dir im Menü «Filme» zur Verfügung. Dort kannst du einfach “Mieten” auswählen und mit “OK” bestätigen. Falls du den PIN-Code für das Filme-Mieten aktiviert hast, wirst du aufgefordert, diesen einzugeben.
+
+Q: Wie lange stehen mir gemietete Filme zur Verfügung?
+A: Gemietete Filme stehen ab dem Mietzeitpunkt für 48 Stunden zur Verfügung.
+
+Q: Wieso kann ich auf der Quickline TV Mobile App keine Filme mieten?
+A: Diese Funktion steht aus rechtlichen Gründen nicht zur Verfügung. Du kannst Filme auf der Quickline TV Web App oder über die Quickline TV-Box mieten und dann auf der Quickline TV App anschauen.
+
+Q: Wie lautet mein PIN?
+A: Der PIN ist standardmässig 1234. Falls der PIN geändert wurde und dir nicht mehr bekannt ist, kannst du den PIN jederzeit im Kundenportal Cockpit anpassen.
+
+Q: Wie kann ich eine Sendung aufnehmen?
+A: Der einfachste Weg ist über die Fernbedienung. Drücke die Aufnahmetaste auf der Fernbedienung, während du die entsprechende Sendung im TV Guide ausgewählt hast oder während du die Sendung ansiehst. Du kannst laufende, zukünftige und Sendungen aus dem Replay TV aufzeichnen.
+
+Q: Wo finde ich meine aufgenommenen Sendungen?
+A: Navigiere über das Menü zu «Aufnahmen». Dort findest du die bereits aufgenommenen und die geplanten Aufnahmen. Du kannst diese dort einfach verwalten (z.B. einzelne Aufnahmen oder ganze Serien löschen).
+
+Q: Mein Aufnahmespeicher ist voll, was kann ich tun?
+A: Du kannst keinen zusätzlichen Speicher kaufen. Entweder löscht du bereits aufgenommene Sendungen, damit Speichervolumen frei wird oder du kannst auf ein anderes Quickline Kombi-Angebot wechseln, mit dem mehr Speicher zur Verfügung steht.
+
+Q: Kann ich meine Aufnahmen von der Verte! Box auf die Quickline UHD Box übernehmen?
+A: Die Aufnahmen können leider nicht übernommen werden. Die Verte! Box bleibt aber nach der Kündigung noch einen Monat (30 Tage) aktiv. Somit kannst du allfällige PVR-Aufnahmen oder die in den letzten 24h gemieteten Filme noch nachkonsumieren. Verte! ist in dieser Zeit gratis, VoD-Käufe werden weiterhin verrechnet und allfällige PayPakete stehen nicht mehr zur Verfügung. Nach diesem Monat wird Verte! automatisch gekündigt.
+
+Q: Kann ich meine Aufnahmen von der vorherigen Quickline TV Box übernehmen?
+A: Alle Aufnahmen ab August 2018 welche auf der Quickline HGW Box getätigt wurden, werden automatisch auf die Quickline UHD Box und Quickline Apps übernommen. Neue Aufnahmen stehen 18 Monate zur Verfügung.
