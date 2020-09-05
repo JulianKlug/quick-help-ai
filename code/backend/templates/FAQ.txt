@@ -173,9 +173,6 @@ A: Verte! Kunden mit einem All in One 1.0 Abo müssen auf ein Smart-Abo wechseln
 Q: Was kostet mich der Wechsel von der Quickline Box zur Quickline UHD Box?
 A: Der Wechsel von der bisherigen Quickline Box auf die Quickline UHD Box ist kostenlos.
 
-Q: Wo finde ich erweiterte Informationen zu den Funktionen der Box?
-A: Auf unserer Homepage findest du ein ausführliches Handbuch zum neuen Quickline TV: Das neue Quickline TV - Benutzerhandbuch
-
 Q: Kann ich eine Zweit-Box bestellen?
 A: Ja, direkt bei der Bestellung der Quickline UHD Box oder im Nachhinein im Kundenportal Cockpit können bis zu fünf weitere Quickline UHD Boxen bestellt werden. Für jede zusätzliche Box werden 10.- monatlich verrechnet. Wende dich bei Fragen an unseren Kundendienst oder den lokalen Quickline Partner.
 
@@ -246,7 +243,7 @@ Q: Was kann ich tun wenn ich belästigende Anrufe bekomme?
 A: Wir empfehlen dir, das verlinkte Belästigungs-Formular durchzulesen. Entscheide auf dieser Basis, ob du einen Antrag hinterlegen möchtest. Ebenfalls gibt es die Möglichkeit, eine Nummer oder sogar ganze Nummernblöcke zu sperren. Weiter infos findest du unter: https://community.quickline.ch/knowledgebase/137-ich-erhalte-bel-stigende-anrufe-was-kann-ich-tun
 
 Q: Wie kann ich meine Callbox aktivieren?
-A: Du kannst die Callbox in deinem Kundenportal Cockpit aktivieren: "Festnetz" -> "Callbox" -> "Callbox aktivieren"
+A: Du kannst die Callbox in deinem Kundenportal Cockpit aktivieren: "Festnetz" - "Callbox" - "Callbox aktivieren"
 
 Q: Ist die Anzahl gespeicherter Nachrichten in der Callbox begrenzt?
 A: Die Limite liegt bei 180sec pro Mitteilung und maximal 20 Mitteilungen. Wenn du die Callbox E-Mail Benachrichtigung aktiviert hast, wirst du auch informiert wenn deine Callbox das Limit erreicht hat.
@@ -255,18 +252,18 @@ Q: Wie kann ich meine Callbox abhören?
 A: Abhören der Callbox von zuhause aus: 086 und Festnetznummer; z.B. 086 062 123 12 34. Abhören der Callbox von unterwegs: Dasselbe wie oben und zusätzlich die * Taste und den Pin-Code eingeben.
 
 Q: Was gibt es für Tastenkombinationen beim Abhören der Callbox?
-A: Nachricht speichern -> 1
-Nachricht löschen -> 2
-Nachricht wiederholen -> 3
-Zur vorherigen Nachricht zurück -> 4
-Zur nächsten Nachricht -> #
+A: Nachricht speichern - 1
+Nachricht löschen - 2
+Nachricht wiederholen - 3
+Zur vorherigen Nachricht zurück - 4
+Zur nächsten Nachricht - #
 
 Q: Kann ich eine persönliche Ansprache in der Callbox aufzeichnen?
 A: Um eine persönliche Ansprache zu erstellen, mit Vorwahl 086 auf Festnetznummer anrufen, im Menü auf "Einstellungen" gehen. Danach die Taste 1 drücken. Maximale Aufnahmezeit: 1 Minute
 
 Q: Wie kann ich die E-Mail Benachrichtigung für die Callbox aktivieren?
 A: Damit die E-Mail-Benachrichtigung funktioniert, müssen grundlegende 2 Bedingungen erfüllt sein: Die betroffene E-Mail Adresse muss im Kundenportal für die Callbox hinterlegt sein. Die betroffene E-Mail Adresse muss im Kundenportal für die Callbox hinterlegt sein. Die Funktion E-Mail-Benachrichtigung muss über das akustische Menü der Callbox aktiviert werden.
-Im Kundenportal ist die Einstellung unter: "Produkte" -> "Telefonie" -> "Einstellung" unterhalb der Linie ersichtlich. Bei aktivierter Funktion wird jeweils eine Mail versendet, wenn eine neue Mitteilung in der Callbox aufgezeichnet wird, oder diese voll ist.
+Im Kundenportal ist die Einstellung unter: "Produkte" - "Telefonie" - "Einstellung" unterhalb der Linie ersichtlich. Bei aktivierter Funktion wird jeweils eine Mail versendet, wenn eine neue Mitteilung in der Callbox aufgezeichnet wird, oder diese voll ist.
 
 Q: Was gibt es für Tastenkombinationen zur Callbox?
 A: Anrufe bei keiner Antwort auf Callbox umleiten (nach 5-6 Mal läuten)
@@ -324,9 +321,6 @@ A: Kunden mit einem All in One 1.0 Abo müssen auf ein Smart-Abo wechseln. Kunde
 
 Q: Was kostet mich der Wechsel von der Quickline Box zur Quickline UHD Box?
 A: Der Wechsel von der bisherigen Quickline Box auf die Quickline UHD Box ist kostenlos.
-
-Q: Wo finde ich erweiterte Informationen zu den Funktionen der Box?
-A: Auf unserer Homepage findest du ein ausführliches Handbuch zum neuen Quickline TV: Das neue Quickline TV - Benutzerhandbuch
 
 Q: Kann ich das neue Quickline TV auch auf meinem Computer im Browser nutzen?
 A: Ja, nutze dafür bitte folgenden Link: http://tv.quickline.ch
