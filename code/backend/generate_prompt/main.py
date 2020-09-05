@@ -1,4 +1,3 @@
-import argparse
 from count_tokens import count_tokens
 from matching import sort_match
 
@@ -8,7 +7,7 @@ intent = open(intent_file, "r").read()
 good_behaviour_file = './templates/good_behaviour_examples.txt'
 good_behaviour = open(good_behaviour_file, 'r').read()
 
-max_tokens = 1990
+max_tokens = 1940
 
 def generate_prompt(input):
     question = input
