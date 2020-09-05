@@ -4,9 +4,6 @@ Script to convert the structured json data created by the scraper into a text_fi
 import json
 import re
 
-# todo remove "schliesse diskussion"
-# todo remove questions
-
 with open('../scraper/data/results/results.json') as json_file:
     data = json.load(json_file)
 
@@ -19,7 +16,7 @@ def filter_relevant_QA(elem):
         return elem
 
 
-def clean_answer(answer):
+def clean_answer(answer, questionUsername):
     if answer.startswith('Hallo'):
         # remove unnecessary "hallo username" from answer
         answer = answer.split('\n')[1:]
@@ -28,8 +25,9 @@ def clean_answer(answer):
     answer = answer.replace('Christoph', 'QAI-bot')
     # remove usernames (they start with @ most of the times)
     answer = re.sub(r'@\d*\b', '', answer)
-    # remove all "schliesse diese Diskussion"
-    to_remove = ['Ich schliesse diese Diskussion hier.', 'Schliesse diese Diskussion', 'Schliesse daher diese Diskussion hier.', ]
+    # remove predefined strings
+    to_remove = ['Ich schliesse diese Diskussion hier.', 'Schliesse diese Diskussion',
+                 'Schliesse daher diese Diskussion hier.', questionUsername]
     for item in to_remove:
         answer = answer.replace(item, '')
     return answer
@@ -38,7 +36,7 @@ def clean_answer(answer):
 for elem in data:
     if filter_relevant_QA(elem):
         question = elem['question'].replace('\n', ' ')
-        answer = clean_answer(elem['answer'])
+        answer = clean_answer(elem['answer'], elem['questionUsername'])
         question_line = 'Q: {}\n'.format(question)
         discussion_textfile.write(question_line)
         answer_line = 'A: {}'.format(answer)
