@@ -1,28 +1,7 @@
 import React from "react";
-import { makeStyles } from "@material-ui/core/styles";
-import AppBar from "@material-ui/core/AppBar";
-import Typography from "@material-ui/core/Typography";
-import { red } from "@material-ui/core/colors";
-
-const useStyles = makeStyles((theme) => ({
-  root: {
-    background_color: "#282c34",
-    min_height: "100vh",
-    display: "flex",
-    flex_direction: "column",
-    align_items: "center",
-    justify_content: "center",
-    font_size: "calc(10px + 2vmin)",
-    color: "white",
-  },
-  title: {
-    flexGrow: 1,
-  },
-}));
+import Chat from "./Chat";
 
 export default function Header() {
-  const classes = useStyles();
-
   return (
     <div
       style={{
@@ -41,6 +20,7 @@ export default function Header() {
         >
           Wie kann ich dir helfen?
         </h1>
+        <Chat />
         <div
           style={{
             display: "flex",
@@ -55,10 +35,5 @@ export default function Header() {
         <span>Nicht gefunden was du suchts? Frag mal nach Reto.</span>
       </div>
     </div>
-    // <AppBar position="static" className={classes.root}>
-    //     <Typography variant="h6" className={classes.title}>
-    //       QAI
-    //     </Typography>
-    // </AppBar>
   );
 }
