@@ -1,7 +1,16 @@
-import React from "react";
-import Chat from "./Chat";
+import React, { useState } from "react";
+import ChatWrapper from "./Chat";
 
 export default function Header() {
+  const [messages, setMessages] = useState([]);
+  const [question, setQuestion] = useState("");
+
+  const handleSubmit = (event) => {
+    event.preventDefault();
+    setMessages([...messages, question]);
+    setQuestion("");
+  };
+
   return (
     <div
       style={{
@@ -19,7 +28,8 @@ export default function Header() {
         >
           Wie kann ich dir helfen?
         </h1>
-        <Chat />
+
+        <ChatWrapper messages={messages} />
         <div
           style={{
             display: "flex",
@@ -27,10 +37,19 @@ export default function Header() {
             position: "relative",
           }}
         >
-          <label>Du kannst mich alles fragen</label>
-          <input placeholder="Du kannst mich alles fragen" />
+          <form style={{ width: "100%" }} onSubmit={handleSubmit}>
+            <label>Du kannst mich alles fragen</label>
+            <input
+              placeholder="Du kannst mich alles fragen"
+              name="question"
+              value={question}
+              onChange={(event) => setQuestion(event.target.value)}
+            />
+            <div>
+              <button type="submit">Los!</button>
+            </div>
+          </form>
         </div>
-
         <span>Nicht gefunden was du suchts? Frag mal nach Reto.</span>
       </div>
     </div>
