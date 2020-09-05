@@ -17,5 +17,5 @@ qa_items = faq_items + discussion_items
 def sort_match(input):
     input = nlp(input)
     similarity_scores = [input.similarity(qa_item) for qa_item in qa_items]
-    sorted_faq_items = [x for _, x in sorted(zip(similarity_scores, qa_items), reverse=True)]
+    sorted_faq_items = [x for _, x in sorted(zip(similarity_scores, qa_items), reverse=True, key=lambda pair: pair[0])]
     return sorted_faq_items
