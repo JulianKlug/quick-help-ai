@@ -4,8 +4,8 @@ Script to convert the structured json data created by the scraper into a text_fi
 import json
 import re
 
-#todo remove "schliesse diskussion"
-#todo remove questions
+# todo remove "schliesse diskussion"
+# todo remove questions
 
 with open('../scraper/data/results/results.json') as json_file:
     data = json.load(json_file)
@@ -28,6 +28,10 @@ def clean_answer(answer):
     answer = answer.replace('Christoph', 'QAI-bot')
     # remove usernames (they start with @ most of the times)
     answer = re.sub(r'@\d*\b', '', answer)
+    # remove all "schliesse diese Diskussion"
+    to_remove = ['Ich schliesse diese Diskussion hier.', 'Schliesse diese Diskussion', 'Schliesse daher diese Diskussion hier.', ]
+    for item in to_remove:
+        answer = answer.replace(item, '')
     return answer
 
 

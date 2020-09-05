@@ -83,7 +83,7 @@ Q: Hallo ZusammenIst es möglich bei dieser Version von Google Chromcast seine e
 A: Das ist aktuell nicht möglich. Ich nehme dieses Bedürfnis aber gerne auf und platziere es bei der zuständigen Abteilung.  Beste Grüsse QAI-bot
 
 Q: HalloIn letzter Zeit häuft sich bei mir bei Serienaufnahmen die Fehlermeldung: Aufnahme fehlgeschlagen Fehlercode: 099.82.000.00. Kann mir jemand sagen an was das liegt?
-A: Schliesse diese Diskussion hier, gleiches Thema in der Diskussion hier: https://community.quickline.ch/d/1304-serieaufnahmen  Beste Grüsse QAI-bot
+A:  hier, gleiches Thema in der Diskussion hier: https://community.quickline.ch/d/1304-serieaufnahmen  Beste Grüsse QAI-bot
 
 Q: Hallo ZusammenSeit ca. 2 Wochen habe ich immer wieder probleme mit dem TV. Immer wieder habe ich keine Verbindung, jedoch läuft im Hintergrund der Sender für ca. 1-2min weiter. Erst nach nachdem die Quickline-App beendet wurde und nach langem Warten (ca. 3-5min) funktioniert alles wieder. Hat jemand das selbe Problem? Die Box ist übers LAN angeschlossen. Ich habe die Verschiedene Boxen bereits vom Netzt getrennt (mehr als 30sek) Seit dem Update kann ich auch nicht auf die Aufnahmen zugreifen. Werde mich in den kommenden Tagen mit dem Kabelnetzbetreiber in Verbindung setzen. 
 A: Habe es abgeklärt. Es gibt seit der neuen Version keine auffällige Häufung von dieser Fehlermeldung oder bekannte Probleme mit dem Verbindungstest.  Hinzu kommt, dass diese Meldung bedeutet, dass es ein Problem mit der Netzwerkverbindung gegeben hat. Falls dies öfter passiert, sollte es unbedingt mit unserem Support geprüft werden. Dies aus dem Grund, dass es dafür neben der Quickline TV-Box selber unzählige Möglichkeiten gibt, welche diese Fehlermeldung auslösen können. So zum Beispiel ein Problem im lokalen Netzwerk (WLAN, Powerline, zusätzlicher Router bzw. Heimnetzwerk), wie auch die allgemeine Auslastung (wenn z.B. andere Geräte im Heimnetzwerk gleichzeitig viel Traffic generieren oder das Internetsignal bereits auf dem Modem nicht optimal ankommt)  Daher wäre das Vorgehen wie gewohnt, da hier die spezifischen Fälle geprüft werden müssen.  Beste Grüsse QAI-bot
@@ -137,7 +137,7 @@ Q: Was mich an der ganzen Sache stört, ist, dass wir für den Werbemist, der un
 A: Diese Diskussion ist natürlich erlaubt, habe es aber in den Offtopic Bereich verschoben.  Beste Grüsse QAI-bot
 
 Q: Hallo zusammen,Wenn ich mich beim online Cockpit meiner Versicherung anmelden will, bekomme ich zur Identifizierung zusätzlich eine SMS zugeschickt. Diese bekomme ich aber nicht, die Versicherung schreibt, dass die SMS nicht zugestellt werden kann. Habt ihr eventuell eine Lösung dafür? Sind solche Probleme bekannt und wie kann ich die lösen? Die Nummer ist korrekt, habe auch schon ein anderes Smartphone ausprobiert, SMS Einstellungen angepasst, … Aber nix hat funktioniert bisher.  Danke für eure Antworten.
-A: Ein Beitrag pro Thema reicht, bitte zukünftig beachten. Schliesse diese Diskussion, hier kann weiterdiskutiert werden: https://community.quickline.ch/d/249-kein-sms-empfang  Beste Grüsse QAI-bot
+A: Ein Beitrag pro Thema reicht, bitte zukünftig beachten. , hier kann weiterdiskutiert werden: https://community.quickline.ch/d/249-kein-sms-empfang  Beste Grüsse QAI-bot
 
 Q: Wie sind die Kündigungsfristen oder überhaupt Fristen, wenn ich zwischen S-L wechsle? Also zum Beispiel von M auf S oder von M auf L - und dann wieder zurück? Über den Abomanager. Bleibt ein Wechsel immer gleich 12 Monate Pflicht oder wie früher 1 Monat?
 A: Bei Upgrades / Downgrades innerhalb des Produkts ist immer per anfangs Monat möglich. Die Mindestvertragslaufzeit besteht nur bei einer aktiven Promo. Diese bleibt auch bei einem Wechsel innerhalb eines Produktes bestehen, beginnt allerdings nicht von vorne.  Beste Grüsse QAI-bot
@@ -155,13 +155,13 @@ Q: Habe soeben angeblich von Quickline (An der Absender Mail Adresse sieht man s
 A: mahony Vielen Dank für die Meldung! Habe diese auch intern weitergeleitet. Beste Grüsse QAI-bot
 
 Q: Gestern wurde ein neues Releases installiert, die Taste Stop und Vorwärts rückwärts hat sich verandert. Was wurde noch geändert?
-A: Entschuldigt bitte die Umstände, ich bin diesmal etwas in Verzug mit den Release Notes. Hier findet ihr alle Infos: https://community.quickline.ch/d/1069-neuer-release-2-42-7  Schliesse daher diese Diskussion hier.  Beste Grüsse QAI-bot
+A: Entschuldigt bitte die Umstände, ich bin diesmal etwas in Verzug mit den Release Notes. Hier findet ihr alle Infos: https://community.quickline.ch/d/1069-neuer-release-2-42-7    Beste Grüsse QAI-bot
 
 Q: Guten Abend allerseits. Ich nutze die Quickline TV App auf meinem iPhone. Dabei hab ich Mühe mit den kleinen Slider um an eine gewünschte Stelle zu spulen. Gerade bei Aufnahmen welche ich mir Vorlaufzeit ausgenommen habe, nutze ich oft den Slider um an den Anfang der Sendung zu gelangen. Halte ich das iPhone im Querformat und wische den Slider, rutscht mir sehr oft die Mitteilungszentrale von iOS ins Bild. Die Vor- und Zurückspultasten erlauben ja nur 10 Sekunden Schritte. Meiner Meinung nach wäre es praktisch wenn diese Tasten gleich wie bei der UHD Box mit 30s vor und 15s zurück belegt wären. Dies nur als kleiner Input für die App Entwicklung.
 A: Danke für dein Feedback!  Ich werde diesen Input bei unseren Entwicklern für die Weiterentwicklung für die Apps platzieren.  Beste Grüsse QAI-bot
 
 Q: Hallo Zusammen! Mein Abo habe ich vor über einem Monat abgeschlossen und sogleich den Promotions-TV bestellt. Inzwischen wurde mein Abo aufgeschaltet und alles läuft wie es soll, nur ohne den Promotions-TV kann ich mein Abo gar nicht nutzen, da ich keinen anderen Fernseher habe. Wann bekomme ich ich meinen LG TV oder wenigstens Informationen über den Status meiner Bestellung? Kann mir da Jemand weiter helfen? Grüsse Abbc
-A: Schliesse diese Diskussion, Thema wird bereits wie von MTR beschrieben, in dieser Diskussion behandelt:https://community.quickline.ch/d/1149-promotion-quickline-tv-lg-uhd-4k-tv/  Beste Grüsse QAI-bot
+A: , Thema wird bereits wie von MTR beschrieben, in dieser Diskussion behandelt:https://community.quickline.ch/d/1149-promotion-quickline-tv-lg-uhd-4k-tv/  Beste Grüsse QAI-bot
 
 Q: Ich bin schon eine Ewigkeit bei Quickline, hatte zum Glück noch nie grosse Probleme. Wenn ich welche hatte immer ein top Service im Quickline Kundencenter Burgdorf.
 A: Herzlich willkommen in unserer Community!  Beste Grüsse QAI-bot
@@ -176,10 +176,10 @@ Q: Tach wohl Was ist der Unterschied zwischen den beiden Kategorien “Das neue 
 A: Herzlich willkommen in unserer Community!  Das klassische Quickline TV ist die Box, welche Modem und TV in einem Gerät kombiniert (HGW). Das neue Quickline TV ist die Android UHD Box.  Da die Bedienung und Funktionen der beiden Boxen nicht identisch sind, lasse ich die unterschiedliche Nennung in der Community aktuell noch stehen. Sobald keine von den klassischen Quickline TV Boxen mehr in Betrieb sind, wird es zusammengeführt.  Ich passe die Kategorien hier jeweils an, falls etwas nicht stimmen sollte. Entschuldige bitte die Verwirrung und ich hoffe, dass ich für etwas Klarheit sorgen konnte.  Beste Grüsse QAI-bot
 
 Q: Ich bin ganz neu mit Quickline und habe das Gefühl, das Bild ist schlecht (bei Netflix wie auch TV Sendern), da die Box automatische Bildverbesserer verwendet wie bspw. Zwischenbildberechnung, Weichzeichnung etc. Verwendet Quickline solche Bildverbesserer und kann man diese irgendwie ausschalten? Beim TV habe ich alles ausgeschaltet und trotzdem ist das Bild - verglichen mit bspw. Zattoo oder Netflix via Chromecast - massiv schlechter. Hat sonst wer dasselbe Problem und vielleicht eine Lösung dazu?
-A: Schliesse diese Diskussion. Thema wird hier diskutiert: https://community.quickline.ch/d/1255-bildqualitat-scharfe-und-weissbereiche-schlecht/8 Beste Grüsse QAI-bot
+A: . Thema wird hier diskutiert: https://community.quickline.ch/d/1255-bildqualitat-scharfe-und-weissbereiche-schlecht/8 Beste Grüsse QAI-bot
 
 Q: Kann mir jemand den korrekten Code für einen Loewe-TV geben. Scheinbar funktioniert der Code für Phillips, aber die Lautstärke kann nicht verändert werden. Also nützt dieser Code nichts.
-A: elefant Bitte zum gleichen Thema wieder in der bisherigen Diskussion kommentieren, die MTR verlinkt hat, damit wir hier die Übersicht nicht verlieren.  Schliesse daher diese Diskussion hier.  Beste Grüsse QAI-bot
+A: elefant Bitte zum gleichen Thema wieder in der bisherigen Diskussion kommentieren, die MTR verlinkt hat, damit wir hier die Übersicht nicht verlieren.    Beste Grüsse QAI-bot
 
 Q: Hallo zusammen. Ich bin Reto und seit jähren begeisterter Quickline-Benutzer.
 A: Herzlich willkommen in unserer Community!  Beste Grüsse
@@ -200,7 +200,7 @@ Q: Ich habe versehentlich alle Aufnahmen gelöscht. Gibt es eine Möglichkeit da
 A: Guten Morgen Sch Das ist leider nicht möglich. Es wird bei Betätigung der Löschfunktion noch einmal zusätzlich nachgefragt, ob man die ausgewählte/n Aufnahme/n wirklich löschen will. Wenn man diese Auswahl nochmals mit “OK” bestätigt, sind die ausgewählten Aufnahmen endgültig gelöscht.  Entschuldige bitte, dass ich dir da keine bessere Rückmeldung geben kann.  Beste Grüsse QAI-bot
 
 Q: Hallo, die Mobile TV App funktioniert seit ca. November 2019 auf Mac OS Catalina nicht mehr. Wie weit ist man da? Wird das bald mal funktionieren?
-A: Über dieses Thema wird hier bereits diskutiert: https://community.quickline.ch/d/943-catalina-und-browserplugin  Schliesse diese Diskussion.  Beste Grüsse QAI-bot
+A: Über dieses Thema wird hier bereits diskutiert: https://community.quickline.ch/d/943-catalina-und-browserplugin  .  Beste Grüsse QAI-bot
 
 Q: Wie kann ich ein Profil löschen?
 A: Ja, das ist möglich. Nachfolgend findest du die Anleitung dazu:  In der Quickline TV App die “Q” Taste auf der Fernbedienung betätigen Zu “Einstellungen” navigieren und mit “OK” bestätigen Zu “Information und PIN” navigieren und mit “OK” bestätigen Rechts unten zu “Profil löschen” navigieren und mit “OK” bestätigen  Wichtig: Das Hauptprofil kann nicht gelöscht werden.  Werde dies auch gleich in den FAQs ergänzen.  Beste Grüsse QAI-bot
@@ -221,5 +221,5 @@ Q: Ich bin soeben von Swisscom gewechselt. Bei der Swisscom wird auf den Festnet
 A: Vielen Dank für deinen Input. Ich habe diesen bei der zuständigen Abteilung platziert.  Beste Grüsse QAI-bot
 
 Q: Hallo Zusammen, wieder mal sind die Akku vom Cordless Telefon hinüber, nächsten Monat zügeln wir und kommen neuzu QL . Spiele hier mit dem Gedanken gar kein Festnetz Telefon mehr einzusetzen sondern über Smartphone zu lösen via Festnetzapp VOIP Homeapp oder wie auch immer dies heissen mag. Nur hab ich leider keine Hinweise gefunden bei QL. Glaube ein Kabelmodem werden ich dann als Einsteiger erhalten aber ob Router etc. auch vorhanden sein wird weiss ich noch nicht. Sollte die Telefonie Router Abhängig sein könnte ich dann ja noch wählen... Irgendwie ist ja das Sunrise Netz im Hintergrund welches QL nutzt, müsste ich dort nach Möglichkeiten suchen ? Möchte sozusagen das unter dem W-Lan Zuhause das Smartphone klingelt bei Festnetz Anruf und der Anruf ins Festnetzt mit der Festnetznummer ankommt. Danke für eure Hinweise
-A: Von Quickline aus gibt es keinen solchen Service mit einer Festnetz-Nummer von uns. Habe dies kürzlich in dieser Diskussion beantwortet: https://community.quickline.ch/d/908-festnetz-mit-sip  Ich schliesse diese Diskussion hier.  Beste Grüsse QAI-bot
+A: Von Quickline aus gibt es keinen solchen Service mit einer Festnetz-Nummer von uns. Habe dies kürzlich in dieser Diskussion beantwortet: https://community.quickline.ch/d/908-festnetz-mit-sip    Beste Grüsse QAI-bot
 
