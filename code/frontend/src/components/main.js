@@ -29,13 +29,6 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-const previousHistory = [
-  {
-    q: "question",
-    a: "answer",
-  },
-];
-
 const USER = "USER";
 const AI = "AI";
 
