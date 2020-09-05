@@ -12,7 +12,3 @@ def sort_match(input):
     similarity_scores = [input.similarity(faq_item) for faq_item in faq_items]
     sorted_faq_items = [x for _, x in sorted(zip(similarity_scores, faq_items), reverse=True)]
     return sorted_faq_items
-
-
-
-sort_match('Netzwerk im Energiesparmodus')
