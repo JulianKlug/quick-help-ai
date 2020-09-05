@@ -44,12 +44,14 @@ export default function Header() {
 
   const handleNewQuestion = async (question) => {
     const userMessage = buildMessage({ text: question, owner: USER });
-    console.log(userMessage);
     setFeed((feed) => [userMessage, ...feed]);
     setIsTyping(true);
 
     const questionHistory = buildQuestionHistory(feed);
     await respond(userMessage.text, questionHistory).then((res) => {
+      if (!res)
+        res =
+          "Ich konnte dein Frage nicht verstehen. Was möchtest du genau wissen?";
       const aiMessage = buildMessage({ text: res, owner: AI });
       setFeed((feed) => [aiMessage, ...feed]);
       setIsTyping(false);

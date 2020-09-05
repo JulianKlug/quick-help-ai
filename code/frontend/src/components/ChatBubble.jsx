@@ -9,7 +9,6 @@ function ChatBubble({ message }) {
     positionContainer = "message-right";
     positionBubble = "message-bubble-right";
   }
-  console.log("received: ", message);
   return (
     <>
       <div className={`message-container ${positionContainer}`}>
