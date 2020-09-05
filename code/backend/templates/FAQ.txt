@@ -241,3 +241,96 @@ A: Die Aufnahmen können leider nicht übernommen werden. Die Verte! Box bleibt 
 
 Q: Kann ich meine Aufnahmen von der vorherigen Quickline TV Box übernehmen?
 A: Alle Aufnahmen ab August 2018 welche auf der Quickline HGW Box getätigt wurden, werden automatisch auf die Quickline UHD Box und Quickline Apps übernommen. Neue Aufnahmen stehen 18 Monate zur Verfügung.
+
+Q: Was kann ich tun wenn ich belästigende Anrufe bekomme?
+A: Wir empfehlen dir, das verlinkte Belästigungs-Formular durchzulesen. Entscheide auf dieser Basis, ob du einen Antrag hinterlegen möchtest. Ebenfalls gibt es die Möglichkeit, eine Nummer oder sogar ganze Nummernblöcke zu sperren. Weiter infos findest du unter: https://community.quickline.ch/knowledgebase/137-ich-erhalte-bel-stigende-anrufe-was-kann-ich-tun
+
+Q: Wie kann ich meine Callbox aktivieren?
+A: Du kannst die Callbox in deinem Kundenportal Cockpit aktivieren: "Festnetz" -> "Callbox" -> "Callbox aktivieren"
+
+Q: Ist die Anzahl gespeicherter Nachrichten in der Callbox begrenzt?
+A: Die Limite liegt bei 180sec pro Mitteilung und maximal 20 Mitteilungen. Wenn du die Callbox E-Mail Benachrichtigung aktiviert hast, wirst du auch informiert wenn deine Callbox das Limit erreicht hat.
+
+Q: Wie kann ich meine Callbox abhören?
+A: Abhören der Callbox von zuhause aus: 086 und Festnetznummer; z.B. 086 062 123 12 34. Abhören der Callbox von unterwegs: Dasselbe wie oben und zusätzlich die * Taste und den Pin-Code eingeben.
+
+Q: Was gibt es für Tastenkombinationen beim Abhören der Callbox?
+A: Nachricht speichern -> 1
+Nachricht löschen -> 2
+Nachricht wiederholen -> 3
+Zur vorherigen Nachricht zurück -> 4
+Zur nächsten Nachricht -> #
+
+Q: Kann ich eine persönliche Ansprache in der Callbox aufzeichnen?
+A: Um eine persönliche Ansprache zu erstellen, mit Vorwahl 086 auf Festnetznummer anrufen, im Menü auf "Einstellungen" gehen. Danach die Taste 1 drücken. Maximale Aufnahmezeit: 1 Minute
+
+Q: Wie kann ich die E-Mail Benachrichtigung für die Callbox aktivieren?
+A: Damit die E-Mail-Benachrichtigung funktioniert, müssen grundlegende 2 Bedingungen erfüllt sein: Die betroffene E-Mail Adresse muss im Kundenportal für die Callbox hinterlegt sein. Die betroffene E-Mail Adresse muss im Kundenportal für die Callbox hinterlegt sein. Die Funktion E-Mail-Benachrichtigung muss über das akustische Menü der Callbox aktiviert werden.
+Im Kundenportal ist die Einstellung unter: "Produkte" -> "Telefonie" -> "Einstellung" unterhalb der Linie ersichtlich. Bei aktivierter Funktion wird jeweils eine Mail versendet, wenn eine neue Mitteilung in der Callbox aufgezeichnet wird, oder diese voll ist.
+
+Q: Was gibt es für Tastenkombinationen zur Callbox?
+A: Anrufe bei keiner Antwort auf Callbox umleiten (nach 5-6 Mal läuten)
+Einschalten: Stern-61-Stern
+Ausschalten: # 61 #
+Abfragen (ob Aktiv oder nicht): Stern- # 61 #
+Anrufe bei Besetztzeichen auf die Callbox leiten
+Einschalten: Stern - 67 Stern - 086 Festnetznummer (Handy/Geschäft) #
+Ausschalten: # 67 #
+Abfragen (ob Aktiv oder nicht): Stern - # 67 #
+Direkte Umleitung auf die Callbox oder auf andere Nummer (Handy,Geschäft)
+Einschalten: Stern - 21 Stern - 086 dann Festnetznummer (Handy/Geschäft) und #
+Ausschalten: # 21 #
+
+Q: Wie viele Nummern kann ich maximal haben?
+A: Analog sind maximal zwei Nummern pro Anschluss möglich.
+
+Q: Wo schliesse ich mein Telefon an?
+A: An deinem Modem befinden sich zwei Telefonanschlüsse. Schliesse dein Telefon am Anschluss „Tel1“ an.
+Solltest du im Besitz einer zweiten Telefonnummer sein, kannst du dein Telefon am Anschluss „Tel2“ anschliessen.
+
+Q: Ich habe eine Nummer bei einem anderen Anbieter. Kann ich diese mitnehmen?
+A: Mit Hilfe des Nummernportierungsformulars ist es problemlos möglich, eine Rufnummer zu Quickline zu portieren.
+Das Portierungsformular wird am Ende deiner Bestellung automatisch generiert. Es fallen keine Portierungsgebühren an.
+
+Q: Was ist ein Profil?
+A: Das Fundament, mit dem wir das Fernseherlebnis persönlich machen, ist das Profil. Dieses Profil sollte für eine bestimmte Person erstellt werden. Diese erhält dann aufgrund ihres Fernsehverhaltens persönliche Empfehlungen und die eigene My Page. Es hat einen Namen, eine eigene Farbe und einen PIN-Code. Ebenfalls können Aufnahmen oder Senderlisten auf einem persönlichen Profil erstellt werden. Das erleichtert die Nutzung in einem Mehrpersonenhaushalt.
+
+Q: Wie viele Profile können erstellt werden?
+A: Es können maximal 10 Profile erstellt werden.
+
+Q: Muss ich mein Profil mit einem PIN-Code schützen?
+A: Nein, du kannst den Zugriff auf dein Profil per PIN-Code bei der Erstellung des Profils oder auch in den Einstellungen deaktivieren. Falls du ihn deaktivierst, beachte bitte, dass jeder auf dein Profil Zugriff hat, auch ein Kind.
+
+Q: Wie kann ich ein Profil löschen?
+A: In der Quickline TV App die “Q” Taste auf der Fernbedienung betätigen
+Zu “Einstellungen” navigieren und mit “OK” bestätigen
+Zu “Information und PIN” navigieren und mit “OK” bestätigen
+Rechts unten zu “Profil löschen” navigieren und mit “OK” bestätigen
+Wichtig: Das Hauptprofil kann nicht gelöscht werden.
+
+Q: Wieso muss ich einen PIN definieren, wenn ich den Zugriff auf das Profil deaktiviert halten möchte?
+A: Für jedes Profil muss ein PIN-Code definiert werden, weil z.B. das Mieten für Filme oder der Zugriff auf erotischen Miet-Filme individuell und unabhängig von den Zugriffsrechten per PIN einstellbar ist.
+
+Q: Wo kann ich mich über das neue Quickline TV informieren?
+A: Auf unserer Homepage findest du alle Informationen zum neuen Quickline TV:
+https://www.quickline.ch/fernsehen
+
+Q: Mit welchem Quickline Abo erhalte ich die Quickline UHD Box?
+A: Kunden mit einem Smart TV S und M können die Quickline UHD Box erhalten.
+Kunden mit einem All in One Abo mit Quickline TV welche eine Quickline UHD Box wünschen, können auf dem All in One Abo bleiben und müssen somit nicht zwingend auf das neue Produktportfolio “Smart- Abo” wechseln.
+
+Q: Kann ich mein altes Quickline Abo für die Quickline UHD Box behalten?
+A: Kunden mit einem All in One 1.0 Abo müssen auf ein Smart-Abo wechseln. Kunden mit anderweitigen Abonnement müssen auf ein Smart Abo wechseln.
+
+Q: Was kostet mich der Wechsel von der Quickline Box zur Quickline UHD Box?
+A: Der Wechsel von der bisherigen Quickline Box auf die Quickline UHD Box ist kostenlos.
+
+Q: Wo finde ich erweiterte Informationen zu den Funktionen der Box?
+A: Auf unserer Homepage findest du ein ausführliches Handbuch zum neuen Quickline TV: Das neue Quickline TV - Benutzerhandbuch
+
+Q: Kann ich das neue Quickline TV auch auf meinem Computer im Browser nutzen?
+A: Ja, nutze dafür bitte folgenden Link: http://tv.quickline.ch
+Einloggen kannst du dich ganz einfach mit deinen Cockpit-Zugangsdaten.
+
+Q: Kann ich eine Zweit-Box bestellen?
+A: Ja, direkt bei der Bestellung der Quickline UHD Box oder im Nachhinein im Kundenportal Cockpit können bis zu fünf weitere Quickline UHD Boxen bestellt werden. Für jede zusätzliche Box werden 10.- monatlich verrechnet. Wende dich bei Fragen an unseren Kundendienst oder den lokalen Quickline Partner.
