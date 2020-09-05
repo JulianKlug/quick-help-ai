@@ -6,25 +6,32 @@ const respond = async (req, res) => {
 
     const framed_question = await frame_question(question)
     const answer = answer_question(framed_question)
+    const fallback_answer = 'Darauf kenne ich keine Antwort.'
 
     answer
         .then(answer => {
                 if(!answer) {
-                    return res.status(400).send({
-                    message: 'Darauf kenne ich keine Antwort.',
-                });
-              }
+                    throw new Error('No answer found on first prompt.')
+                }
                 res.status(200).send(answer)
             })
-        .catch(_ => {
-            const reframed_question = reframe_question(question)
-            const answer = answer_question(reframed_question)
+        .catch(async _ => {
+            const reframed_question = await reframe_question(framed_question)
+            const new_answer = answer_question(reframed_question)
 
-            answer
-                .then(answer => res.status(200).send(answer))
-                .catch(e => throw e)
+            new_answer
+                .then(a => {
+                    if(!answer) {
+                        throw new Error('No answer found on second prompt.')
+                    }
+                    res.status(200).send(a)
+                })
+                .catch(_ => {
+                    console.log('failed again')
+                    res.status(200).send(fallback_answer)
+                })
         })
-        .catch(error => res.status(400).send(error))
+        .catch(_ => res.status(200).send(fallback_answer))
 }
 
 export default respond;
