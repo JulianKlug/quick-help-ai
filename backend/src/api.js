@@ -9,15 +9,8 @@ const good_behaviour = fs.readFileSync('./templates/good_behaviour_examples.txt'
 const url = 'https://api.openai.com/v1/engines/davinci/completions';
 
 const answer_question = async (input) => {
-    const question = 'Q: ' + input;
-    const separator = '\n\n'
-    const ending = '\n'
-    const templated_prompt = intent + separator
-        + faq_template + separator
-        + good_behaviour + separator
-        + question + ending
     const data = {
-      prompt: templated_prompt,
+      prompt: input,
       temperature:0,
       max_tokens:100,
       top_p:1,

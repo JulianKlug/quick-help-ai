@@ -1,7 +1,7 @@
 import spacy
 nlp = spacy.load("de_core_news_sm")
 
-faq_file = '../templates/FAQ.txt'
+faq_file = './templates/FAQ.txt'
 
 text_file = open(faq_file, "r")
 faq_items = text_file.read().split('\n\n')
