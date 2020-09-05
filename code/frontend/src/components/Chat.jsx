@@ -1,6 +1,8 @@
 import React from "react";
 import AnimateHeight from "react-animate-height";
 
+import ChatBubble from "./ChatBubble";
+
 class Chat extends React.Component {
   state = {
     height: 0,
@@ -19,18 +21,10 @@ class Chat extends React.Component {
 
     return (
       <AnimateHeight height={height} style={{ margin: "0 auto" }}>
-        <div
-          style={{
-            margin: "0 auto",
-            height: "500px",
-            width: "80%",
-            background: "white",
-            color: "black",
-            marginBottom: "1em",
-            borderRadius: "5px",
-          }}
-        >
-          <pre>{JSON.stringify(messages)}</pre>
+        <div className="chat-feed">
+          {messages.map((message) => (
+            <ChatBubble message={message} key={message.id} />
+          ))}
         </div>
       </AnimateHeight>
     );

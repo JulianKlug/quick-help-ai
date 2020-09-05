@@ -1,14 +1,58 @@
 import React, { useState } from "react";
+import { v4 as uuidv4 } from "uuid";
+
 import ChatWrapper from "./Chat";
+import QuestionInput from "./QuestionInput";
+
+// import respond from "../apiCalls";
+
+async function respond() {
+  return new Promise((resolve) => {
+    setTimeout(() => {
+      resolve("new message");
+    }, 1000);
+  });
+}
+
+const USER = "USER";
+const AI = "AI";
+
+function buildQuestionHistory(feed) {
+  let questionHistory = [];
+  for (let i = 0; i < feed.length; i += 2) {
+    questionHistory.push({
+      q: feed[i].text,
+      a: feed[i + 1].text,
+    });
+  }
+  return questionHistory;
+}
+
+function buildMessage({ text, owner }) {
+  if (!text || !owner) throw new Error("Text nad owner required!");
+  return {
+    id: uuidv4(),
+    text,
+    owner,
+  };
+}
 
 export default function Header() {
-  const [messages, setMessages] = useState([]);
-  const [question, setQuestion] = useState("");
+  const [feed, setFeed] = useState([]);
+  const [isTyping, setIsTyping] = useState(false);
 
-  const handleSubmit = (event) => {
-    event.preventDefault();
-    setMessages([...messages, question]);
-    setQuestion("");
+  const handleNewQuestion = async (question) => {
+    const userMessage = buildMessage({ text: question, owner: USER });
+    console.log(userMessage);
+    setFeed((feed) => [...feed, userMessage]);
+    setIsTyping(true);
+
+    const questionHistory = buildQuestionHistory(feed);
+    await respond(userMessage.text, questionHistory).then((res) => {
+      const aiMessage = buildMessage({ text: res, owner: AI });
+      setFeed((feed) => [...feed, aiMessage]);
+      setIsTyping(false);
+    });
   };
 
   return (
@@ -29,28 +73,17 @@ export default function Header() {
           Wie kann ich dir helfen?
         </h1>
 
-        <ChatWrapper messages={messages} />
-        <div
-          style={{
-            display: "flex",
-            justifyContent: "center",
-            position: "relative",
-          }}
-        >
-          <form style={{ width: "100%" }} onSubmit={handleSubmit}>
-            <label>Du kannst mich alles fragen</label>
-            <input
-              placeholder="Du kannst mich alles fragen"
-              name="question"
-              value={question}
-              onChange={(event) => setQuestion(event.target.value)}
-            />
-            <div>
-              <button type="submit">Los!</button>
-            </div>
-          </form>
+        <div style={{ width: "80vw" }}>
+          <div style={{ overflow: "hidden" }}>
+            <ChatWrapper messages={feed} isTyping={isTyping} />
+          </div>
+          <QuestionInput
+            feed={feed}
+            onNewQuestion={handleNewQuestion}
+            disable={isTyping}
+          />
         </div>
-        <span>Nicht gefunden was du suchts? Frag mal nach Reto.</span>
+        <pre>{JSON.stringify(feed, null, 2)}</pre>
       </div>
     </div>
   );
