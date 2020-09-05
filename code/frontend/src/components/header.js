@@ -7,7 +7,6 @@ export default function Header() {
       style={{
         fontWeight: "200",
         background: "#d40037",
-        height: "500px",
         color: "#fff",
         display: "flex",
         justifyContent: "center",
