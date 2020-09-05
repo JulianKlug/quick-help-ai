@@ -16,3 +16,66 @@ A: Ja, mittels WPS Tastendruck auf allen WLAN Plus Boxen kann das Netzwerk in de
 
 Q: Die Quickline UHD Box ist via Ethernet an der WLAN Plus Box angeschlossen. Soll eine statische IP Einstellung oder DHCP gewählt werden?
 A: Wir empfehlen die DHCP Einstellung.
+
+Q: Was ist Phishing?
+A: Phishing ist eine Abwandlung vom englischen “fishing”. Es geht dem Angreifer in diesem Fall darum, sensitive Daten (z.B. Kreditkarten / Bank-Informationen oder Passwörter) von dem Empfänger zu “fischen”. Dies passiert entweder durch Viren in Form von Anhängen, infizierten / gefälschten Websites oder mit der direkten Aufforderung, die Daten per Mail zu senden.
+
+Q: Wie erkenne ich ein Phishing Mail?
+A: Es gibt mehrere auffällige Anzeichen für solche Mails:
+Es wird umgehendes Handeln angefordert (z.B. dringend Passwort wechseln)
+Der Name des Absenders stimmt nicht mit der E-Mail Adresse überein
+Rechtschreibe- und Grammatikfehler im Text der Mail
+Passwörter oder Kreditkarten-Daten sollen direkt via E-Mail oder nach Aufruf eines Links gesendet werden
+Es wird für ein Gewinnspiel geworben, bei dem nur ganz wenige Teilnehmer auserwählt wurden
+
+Q: Was muss ich machen, wenn ich ein Phishing Mail erhalte?
+A: Die betroffene Mail direkt löschen. Unter keinen Umständen antworten oder einen Link / Anhang öffnen.
+
+Q: Was muss ich machen, wenn ich auf einen Link geklickt, einen verdächtigen Anhang geöffnet oder meine Daten an den gefälschten Absender gesendet habe?
+A: Bei Kreditkarten/Konto-Daten: Umgehend den Anbieter der Kreditkarte bzw. des Kontos kontaktieren, um diese zu sperren.
+Bei Passwörtern: Passwort bei dem betroffenen Anbieter umgehend ändern und den Anbieter zu diesem Vorfall informieren. Falls bei anderen Anbietern das gleiche Passwort verwendet wurde, diese ebenfalls ändern.
+Allgemein: Sicherstellen, dass du die aktuelle Version deines Antivirenprogramms nutzt und einen vollständigen Virenscan durchführen.
+
+Q: Wo kann ich Quickline Powerline bestellen?
+A: Quickline Powerline wird nicht mehr angeboten. Wir empfehlen unsere Lösung “WLAN Plus”
+
+Q: Was bedeuten die LEDs?
+A: Leuchtet Weiss = Der Powerline WiFi Adapter ist betriebsbereit und es besteht eine Verbindung.
+Binkt regelmässig Rot = Die Datenübertragungsrate des Powerline WiFi Adapters liegt nicht im optimalen Bereich. Bitte prüfe, ob der Adapter direkt an der Steckdose angeschlossen wurde und keine Störquellen, wie z.B. Ladegeräte, in der Nähe sind.
+Blinkt regelmässig und schnell Rot = Der Powerline WiFi Adapter ist mit dem Stromnetz verbunden, aber es besteht keine Verbindung mit dem Router. Bitte prüfen, dass der Adapter direkt an der Stromsteckdose angeschlossen ist und somit mögliche Störquellen entfernt werden.
+Blinkt unregelmässig Weiss = Der Powerline WiFi Adapter befindet sich im Stromsparmodus.
+Blinkt unregelmässig und schnell Weiss = Der Verschlüsselungsvorgang (Pairing) im Netzwerk wird durchgeführt.
+
+Q: Wie kann ich den Powerline Adapter konfigurieren?
+A: Über die Software der mitgelieferten CD gelangen Sie auf die Konfigurationsoberfläche, um erweiterte Einstellungen an deinem Powerline WLAN Netzwerk vorzunehmen.
+
+Q: Wie kann ich die Kindersicherung aktivieren?
+A: Mit dieser Funktion kannst du den Internetzugang für bestimmte Geräte zeitlich festlegen. Hierzu musst du die mitgelieferte Software installieren. Unter „Kindersicherung“ kannst du nun das Internet zeitlich beschränken.
+
+Q: Was stellt man im Access Point ein?
+A: Unter Access Point kannst du dir ein eigenes Passwort für den Powerline Adapter setzen oder das bestehende individuell anpassen.
+
+Q: Wie kann die WLAN-Zeitsteuerung eingestellt werden?
+A: Unter der Option „WLAN Zeitsteuerung“ hast du die Möglichkeit, die Internetverbindung zeitlich zu beschränken.
+Die Einstellungen kannst du für die tägliche oder wöchentliche Nutzung festlegen.
+
+Q: Wie kann ich die LEDs ausschalten?
+A: Unter der Option „Verwaltung“ kannst du die störenden Lichter des Powerline Adapters ausschalten und zugleich auch die Zeit und das Datum einstellen.
+
+Q: Welche Einstellungen sind unter der Rubrik “Einstellungen“ (Zahnräder) möglich?
+A: Du hast die Möglichkeit, die Sprache anzupassen, die Gerätesicherheit sicherzustellen und die Netzwerkeinstellungen zu überprüfen.
+
+Q: Was sind die Voraussetzungen zur Nutzung von Quickline Powerline? Wo sind die Grenzen?
+A: Powerline funktioniert im gesamten Stromnetz des Hauses beziehungsweise der Wohnung, egal ob Alt- oder Neubau. Dabei muss es sich aber um ein zusammenhängendes Leitungsnetz handeln. Zudem ist zu beachten, dass Leitungslängen von 300 Metern nicht überschritten werden.
+
+Q: Mit welchen Betriebssystemen funktionieren die Quickline Powerline Adapter?
+A: Die Powerline Adapter arbeiten unabhängig vom Betriebssystem mit allen Netzwerkgeräten zusammen, welche Daten per IP Signal versenden. Sie verhalten sich dabei wie ein langes Netzwerkkabel.
+
+Q: Welche Geschwindigkeit erhalte ich über die Powerline Verbindung?
+A: 1200 Mbit/s ist die Bruttoleistung, welche mit der Powerline-Verbindung über die Stromleitung erzielt werden kann. Die tatsächliche Leistung der Powerline Adapter ist aber abhängig von deiner Hausinstallation.
+
+Q: Was dämpft die Leistung meines Powerline Adapters?
+A: Achte darauf, dass du die Powerline Adapter direkt an der Steckdose anschliesst und nicht über eine Steckdosenleiste. Auch Störquellen, wie Ladegeräte oder Dimmer, können die Leistung des Adapters verringern.
+
+Q: Wie verhalten sich Powerline Geräte bei Überspannung (z.B. Blitzeinschlag)?
+A: Powerline Produkte sind immer sicher, d.h. es geht auch im Fall einer Überspannung niemals eine Gefährdung von den Geräten aus. In seltenen Fällen können örtliche Überspannungsereignisse (z.B. naher Blitzeinschlag) oberhalb des definierten Spannungspegels liegen. In diesen Fällen fungiert ein im Powerline Produkt verbauter Überspannungsschutz, um weitere Schäden zu verhindern, sofern deine Geräte wie PC, Smartphone usw. mit einer Steckdosenleiste am Adapter angeschlossen sind. Der Powerline Adapter verliert dadurch aber in der Regel die Funktion.
