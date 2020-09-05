@@ -1,5 +1,5 @@
 import spacy
-nlp = spacy.load("de_core_news_sm")
+nlp = spacy.load("de_core_news_lg")
 
 faq_file = './templates/FAQ.txt'
 discussion_file = './templates/discussion.txt'
