@@ -11,7 +11,9 @@ function respond (question) {
      const api_route = `${backend.protocol}://${backend.hostname}:${backend.port}`;
      return axios.post(api_route, body)
             .then(res => {
+                // todo change this back to return response
                 console.log(res.data)
+                return res.data
             })
             .catch(errorHandler);
 }
