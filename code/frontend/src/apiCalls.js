@@ -6,16 +6,25 @@ const backend = {
     port: '9000'
 }
 
-function respond (question) {
-     const body = { question };
-     const api_route = `${backend.protocol}://${backend.hostname}:${backend.port}`;
-     return axios.post(api_route, body)
-            .then(res => {
-                // todo change this back to return response
-                console.log(res.data)
-                return res.data
-            })
-            .catch(errorHandler);
+const api_route = `${backend.protocol}://${backend.hostname}:${backend.port}`;
+
+function join_question_and_feed(question, feed) {
+    let final_prompt = '';
+    for (const qa_pair of feed) {
+        final_prompt += `Q: ${qa_pair.q}\n`;
+        final_prompt += `A: ${qa_pair.a}\n\n`;
+    }
+    final_prompt += `Q: ${question}`;
+    return final_prompt;
+
+}
+
+function respond (question, feed = []) {
+    const joined_prompt = join_question_and_feed(question, feed)
+    const body = { question: joined_prompt };
+    return axios.post(api_route, body)
+        .then(res => res.data)
+        .catch(errorHandler);
 }
 
 function errorHandler(e) {

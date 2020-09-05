@@ -11,7 +11,7 @@ good_behaviour = open(good_behaviour_file, 'r').read()
 max_tokens = 1900
 
 def generate_prompt(input):
-    question = 'Q: ' + input
+    question = input
     separator = '\n\n'
     ending = '\n'
 
