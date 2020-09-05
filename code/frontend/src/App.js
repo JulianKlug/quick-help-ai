@@ -1,11 +1,13 @@
 import React from 'react';
 import Header from './components/header'
 import Main from './components/main'
+import Leiste from './components/Leiste'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
+        <Leiste />
       <Header/>
       <Main/>
     </div>
