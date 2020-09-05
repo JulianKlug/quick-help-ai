@@ -78,7 +78,7 @@ export default function Header() {
           <QuestionInput
             feed={feed}
             onNewQuestion={handleNewQuestion}
-            disable={isTyping}
+            disabled={isTyping}
           />
           <div style={{ overflow: "hidden" }}>
             <ChatWrapper messages={feed} isTyping={isTyping} />

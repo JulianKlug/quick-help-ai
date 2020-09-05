@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function QuestionInput({ onNewQuestion, disable }) {
+function QuestionInput({ onNewQuestion, disabled }) {
   const [question, setQuestion] = useState("");
 
   const handleSubmit = (event) => {
@@ -24,17 +24,17 @@ function QuestionInput({ onNewQuestion, disable }) {
           <div>
             <label>Du kannst mich alles fragen</label>
             <input
-              placeholder="Du kannst mich alles fragen"
+              placeholder={disabled ? "" : "Du kannst mich alles fragen"}
               name="question"
               value={question}
               onChange={(event) => setQuestion(event.target.value)}
-              disabled={disable}
+              disabled={disabled}
             />
 
             <button
               style={{ marginLeft: "1em" }}
               type="submit"
-              disabled={disable}
+              disabled={disabled}
             >
               Senden
             </button>
