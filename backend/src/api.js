@@ -1,32 +1,23 @@
-import axios from 'axios';
-import fs from 'fs';
-import auth from "../auth";
+import answer_question from "./gpt_api";
+import frame_question from "./utils";
 
-const faq_template = fs.readFileSync('./templates/FAQ.txt', 'utf8');
-const intent = fs.readFileSync('./templates/intent_specification.txt', 'utf8');
-const good_behaviour = fs.readFileSync('./templates/good_behaviour_examples.txt', 'utf8');
+const respond = async (req, res) => {
+    const { question } = req.body;
+    // figure out if first question or continued discussion
 
-const url = 'https://api.openai.com/v1/engines/davinci/completions';
+    const framed_question = await frame_question(question)
+    const answer = answer_question(framed_question)
 
-const answer_question = async (input) => {
-    const data = {
-      prompt: input,
-      temperature:0,
-      max_tokens:100,
-      top_p:1,
-      stop:["\n"]
-    }
-
-    const config = { headers: { Authorization: `Bearer ${auth.openAISecretKey}`}};
-    const response = await axios.post(url, data, config)
-            .then(res => res.data)
-            .catch(errorHandler);
-
-    return response
+    answer
+        .then(answer => {
+                if(!answer) {
+                    return res.status(400).send({
+                    message: 'Darauf kenne ich keine Antwort.',
+                });
+              }
+                res.status(200).send(answer)
+            })
+        .catch(error => res.status(400).send(error))
 }
 
-function errorHandler(e) {
-    console.error(e)
-}
-
-export default answer_question;
+export default respond;
