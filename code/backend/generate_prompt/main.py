@@ -8,7 +8,7 @@ intent = open(intent_file, "r").read()
 good_behaviour_file = './templates/good_behaviour_examples.txt'
 good_behaviour = open(good_behaviour_file, 'r').read()
 
-max_tokens = 1900
+max_tokens = 1990
 
 def generate_prompt(input):
     question = input
