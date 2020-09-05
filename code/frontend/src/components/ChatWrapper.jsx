@@ -17,11 +17,17 @@ class Chat extends React.Component {
 
   render() {
     const { height } = this.state;
-    const { messages } = this.props;
+    const { messages, isTyping } = this.props;
+
+    const writingMessage = { text: "...", owner: "AI" };
 
     return (
       <AnimateHeight height={height} style={{ margin: "0 auto" }}>
         <div className="chat-feed">
+          {isTyping ? (
+            <ChatBubble message={writingMessage} key={"hello"} />
+          ) : null}
+
           {messages.map((message) => (
             <ChatBubble message={message} key={message.id} />
           ))}
@@ -31,10 +37,10 @@ class Chat extends React.Component {
   }
 }
 
-function ChatWrapper({ messages = [] }) {
+function ChatWrapper({ messages = [], isTyping }) {
   const hasMessages = messages.length > 0;
   console.log(hasMessages);
-  return <Chat open={hasMessages} messages={messages} />;
+  return <Chat open={hasMessages} messages={messages} isTyping={isTyping} />;
 }
 
 export default ChatWrapper;

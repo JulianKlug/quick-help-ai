@@ -1,18 +1,19 @@
 import React, { useState } from "react";
 import { v4 as uuidv4 } from "uuid";
 
-import ChatWrapper from "./Chat";
+import ChatWrapper from "./ChatWrapper";
 import QuestionInput from "./QuestionInput";
 
-// import respond from "../apiCalls";
+import respond from "../apiCalls";
 
-async function respond() {
-  return new Promise((resolve) => {
-    setTimeout(() => {
-      resolve("new message");
-    }, 1000);
-  });
-}
+// Test Function For Chat
+// async function respond() {
+//   return new Promise((resolve) => {
+//     setTimeout(() => {
+//       resolve("new message");
+//     }, 1000);
+//   });
+// }
 
 const USER = "USER";
 const AI = "AI";
@@ -44,13 +45,13 @@ export default function Header() {
   const handleNewQuestion = async (question) => {
     const userMessage = buildMessage({ text: question, owner: USER });
     console.log(userMessage);
-    setFeed((feed) => [...feed, userMessage]);
+    setFeed((feed) => [userMessage, ...feed]);
     setIsTyping(true);
 
     const questionHistory = buildQuestionHistory(feed);
     await respond(userMessage.text, questionHistory).then((res) => {
       const aiMessage = buildMessage({ text: res, owner: AI });
-      setFeed((feed) => [...feed, aiMessage]);
+      setFeed((feed) => [aiMessage, ...feed]);
       setIsTyping(false);
     });
   };
@@ -74,16 +75,18 @@ export default function Header() {
         </h1>
 
         <div style={{ width: "80vw" }}>
-          <div style={{ overflow: "hidden" }}>
-            <ChatWrapper messages={feed} isTyping={isTyping} />
-          </div>
           <QuestionInput
             feed={feed}
             onNewQuestion={handleNewQuestion}
             disable={isTyping}
           />
+          <div style={{ overflow: "hidden" }}>
+            <ChatWrapper messages={feed} isTyping={isTyping} />
+          </div>
+          <div style={{ padding: "2em" }}>
+            <span>Nicht gefunden was du suchts? Frag mal nach Reto.</span>
+          </div>
         </div>
-        <pre>{JSON.stringify(feed, null, 2)}</pre>
       </div>
     </div>
   );

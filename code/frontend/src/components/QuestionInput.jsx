@@ -1,10 +1,11 @@
 import React, { useState } from "react";
 
-function QuestionInput({ messages, onNewQuestion }) {
+function QuestionInput({ onNewQuestion, disable }) {
   const [question, setQuestion] = useState("");
 
   const handleSubmit = (event) => {
     event.preventDefault();
+    if (question === "") return;
     onNewQuestion(question);
     setQuestion("");
   };
@@ -16,22 +17,30 @@ function QuestionInput({ messages, onNewQuestion }) {
           display: "flex",
           justifyContent: "center",
           position: "relative",
+          paddingBottom: "1em",
         }}
       >
         <form style={{ width: "100%" }} onSubmit={handleSubmit}>
-          <label>Du kannst mich alles fragen</label>
-          <input
-            placeholder="Du kannst mich alles fragen"
-            name="question"
-            value={question}
-            onChange={(event) => setQuestion(event.target.value)}
-          />
           <div>
-            <button type="submit">Los!</button>
+            <label>Du kannst mich alles fragen</label>
+            <input
+              placeholder="Du kannst mich alles fragen"
+              name="question"
+              value={question}
+              onChange={(event) => setQuestion(event.target.value)}
+              disabled={disable}
+            />
+
+            <button
+              style={{ marginLeft: "1em" }}
+              type="submit"
+              disabled={disable}
+            >
+              Senden
+            </button>
           </div>
         </form>
       </div>
-      <span>Nicht gefunden was du suchts? Frag mal nach Reto.</span>
     </>
   );
 }
