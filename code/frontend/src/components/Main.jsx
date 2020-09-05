@@ -70,11 +70,7 @@ export default function Header() {
       }}
     >
       <div style={{ textAlign: "center" }}>
-        <h1
-          style={{ marginTop: "5em", fontWeight: "lighter", fontSize: "3rem" }}
-        >
-          Wie kann ich dir helfen?
-        </h1>
+        <h1>Wie kann ich dir helfen?</h1>
 
         <div style={{ width: "80vw" }}>
           <QuestionInput

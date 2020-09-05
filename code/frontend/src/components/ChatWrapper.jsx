@@ -39,7 +39,6 @@ class Chat extends React.Component {
 
 function ChatWrapper({ messages = [], isTyping }) {
   const hasMessages = messages.length > 0;
-  console.log(hasMessages);
   return <Chat open={hasMessages} messages={messages} isTyping={isTyping} />;
 }
 
