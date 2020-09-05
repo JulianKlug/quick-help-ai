@@ -44,7 +44,7 @@ const respond = async (req, res) => {
     res.status(200).send(answer);
   } catch (error) {
     try {
-      reframe_question = await reframe_question(framed_question);
+      const reframe_question = await reframe_question(framed_question);
       const new_answer = await answer_question(reframe_question);
 
       if (!new_answer) {
