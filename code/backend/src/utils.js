@@ -22,5 +22,13 @@ const frame_question = async (input) => {
     return framed_prompt;
 }
 
-export default frame_question;
+const reframe_question = async (input) => {
+    const separator = '\n\n'
+    const input_array = input.split(separator)
+    input_array.splice(input_array.length - 2  ,1 )
+
+    return input_array.join(separator)
+}
+
+export {frame_question, reframe_question};
 

@@ -1,9 +1,8 @@
 import answer_question from "./gpt_api";
-import frame_question from "./utils";
+import {frame_question, reframe_question} from "./utils";
 
 const respond = async (req, res) => {
     const { question } = req.body;
-    // figure out if first question or continued discussion
 
     const framed_question = await frame_question(question)
     const answer = answer_question(framed_question)
@@ -17,6 +16,14 @@ const respond = async (req, res) => {
               }
                 res.status(200).send(answer)
             })
+        .catch(_ => {
+            const reframed_question = reframe_question(question)
+            const answer = answer_question(reframed_question)
+
+            answer
+                .then(answer => res.status(200).send(answer))
+                .catch(e => throw e)
+        })
         .catch(error => res.status(400).send(error))
 }
 
