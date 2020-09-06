@@ -328,3 +328,6 @@ Einloggen kannst du dich ganz einfach mit deinen Cockpit-Zugangsdaten.
 
 Q: Kann ich eine Zweit-Box bestellen?
 A: Ja, direkt bei der Bestellung der Quickline UHD Box oder im Nachhinein im Kundenportal Cockpit können bis zu fünf weitere Quickline UHD Boxen bestellt werden. Für jede zusätzliche Box werden 10.- monatlich verrechnet. Wende dich bei Fragen an unseren Kundendienst oder den lokalen Quickline Partner.
+
+Q: Wie kann ich den Kundenservice erreichen?
+A: Quickline bietet ihnen eine kostenlose Software an, um den Empfang des WLAN-Signales zu kalibrieren und verbessern, die sie unter https://quickline.ch/media/1svdujmp/quickline_suiteinstaller.exe runterladen können. Die Software analysiert dein eigenes und die WLAN-Netze in der Umgebung und legt auf deinen Wunsch den besten Kanal fest.
