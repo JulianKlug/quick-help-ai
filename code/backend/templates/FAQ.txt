@@ -333,19 +333,19 @@ Q: Wie kann ich die Qualität meines WLAN-Empfangs verbessern?
 A: Quickline bietet ihnen eine kostenlose Software an, um den Empfang des WLAN-Signales zu kalibrieren und verbessern, die sie unter https://quickline.ch/media/1svdujmp/quickline_suiteinstaller.exe runterladen können. Die Software analysiert dein eigenes und die WLAN-Netze in der Umgebung und legt auf deinen Wunsch den besten Kanal fest.
 
 Q: Wo finde ich die Anleitung zur Installation vom Technicolor CGA2121 Modem?
-A: Die Anleitung zur Installation vom Technicolor CGA2121 Modem findest hier: https://quickline.ch/media/tgdp3yup/ql_internet_modem_technicolor_cga2121.pdf
+A: Die Anleitung zur Installation vom Technicolor CGA2121 Modem findest du hier: https://quickline.ch/media/tgdp3yup/ql_internet_modem_technicolor_cga2121.pdf
 
 Q: Wo finde ich die Anleitung zur Installation vom Technicolor TC7230 Modem?
-A: Die Anleitung zur Installation vom Technicolor TC7230 Modem findest hier: https://quickline.ch/media/r5kf5uoc/ql_internet_modem_technicolor_tc7230.pdf
+A: Die Anleitung zur Installation vom Technicolor TC7230 Modem findest du hier: https://quickline.ch/media/r5kf5uoc/ql_internet_modem_technicolor_tc7230.pdf
 
 Q: Wo finde ich die Anleitung zur Installation vom Huawei EG8247Q Modem?
-A: Die Anleitung zur Installation vom Huawei EG8247Q Modem findest hier: https://quickline.ch/media/oyjjvb4x/ql_internet_modem-ftth-huawei-eg8247q.pdf
+A: Die Anleitung zur Installation vom Huawei EG8247Q Modem findest du hier: https://quickline.ch/media/oyjjvb4x/ql_internet_modem-ftth-huawei-eg8247q.pdf
 
 Q: Wo finde ich die Anleitung zur Installation vom Huawei HG8247H Modem?
-A: Die Anleitung zur Installation vom Huawei HG8247H Modem findest hier: https://quickline.ch/media/pp4ppjt3/ql_internet_modem-ftth-huawei-hg8247h.pdf
+A: Die Anleitung zur Installation vom Huawei HG8247H Modem findest du hier: https://quickline.ch/media/pp4ppjt3/ql_internet_modem-ftth-huawei-hg8247h.pdf
 
 Q: Wo finde ich die Anleitung zur Installation vom Quickline WLAN Plus?
-A: Die Anleitung zur Installation vom Quickline WLAN Plus findest hier: https://quickline.ch/media/wwpj3ohh/ql_internet_wlan_plus_kurzanleitung.pdf
+A: Die Anleitung zur Installation vom Quickline WLAN Plus findest du hier: https://quickline.ch/media/wwpj3ohh/ql_internet_wlan_plus_kurzanleitung.pdf
 
 Q: Wie finde ich die Dokumentation zur E-Mail Einstellungen?
 A: Die Dokumentation zur E-Mail Einstellungen finden sie hier: https://quickline.ch/media/punmlizs/ql_internet_maileinstellungen.pdf
@@ -371,7 +371,7 @@ A: Das Benutzerhandbuch von der Quickline Mobil-TV finden sie hier: https://quic
 Q: Wo finde ich die Dokumentation zur Ländergruppen Roaming?
 A: Die Dokumentation zur Ländergruppen Roaming finden sie hier: https://quickline.ch/media/b2tb0pyp/ql_mobile_laendergruppen-roaming.pdf
 
-Q: Wie finde ich die Dokumentation zum Roaming Cockpit?
+Q: Wo finde ich die Dokumentation zum Roaming Cockpit?
 A: Die Dokumentation zum Roaming Cockpit finden sie hier: https://quickline.ch/media/hdtl4rcz/ql_mobile_roaming-cockpit.pdf
 
 Q: Wo finde ich die Dokumentation zu den Festnetztelefonie Zusatzdiensten?
