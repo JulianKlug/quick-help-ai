@@ -4,6 +4,8 @@
 
 A word2vector similarity model is used to find related questions/answers/documents in a database. This context information is then used to frame the prompt fed to a larger general language model (such as GPT2/3 or BERT).
 
+![Inner Workings](./misc/schema.png)
+
 The swiss company QuickLine was used here as an example. A Q&A database for their services was created by scraping the company's web-presence. 
 
 ![User Example](./misc/user_example.gif)
