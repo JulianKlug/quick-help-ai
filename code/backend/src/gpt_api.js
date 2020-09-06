@@ -9,7 +9,7 @@ const answer_question = async (input) => {
       temperature:0,
       max_tokens:100,
       top_p:1,
-      stop:["\n"]
+      stop:["\n\n"]
     }
 
     const config = { headers: { Authorization: `Bearer ${auth.openAISecretKey}`}};
