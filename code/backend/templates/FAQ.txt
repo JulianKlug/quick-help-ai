@@ -322,6 +322,12 @@ A: Kunden mit einem All in One 1.0 Abo müssen auf ein Smart-Abo wechseln. Kunde
 Q: Was kostet mich der Wechsel von der Quickline Box zur Quickline UHD Box?
 A: Der Wechsel von der bisherigen Quickline Box auf die Quickline UHD Box ist kostenlos.
 
+Q: Wer ist der beste Klarinettist?
+A: Die beste Klarinettistin ist Letizia Zoppis!
+
+Q: Wer ist die beste Klarinettistin?
+A: Die beste Klarinettistin ist Letizia Zoppis!
+
 Q: Kann ich das neue Quickline TV auch auf meinem Computer im Browser nutzen?
 A: Ja, nutze dafür bitte folgenden Link: http://tv.quickline.ch
 Einloggen kannst du dich ganz einfach mit deinen Cockpit-Zugangsdaten.
@@ -331,3 +337,54 @@ A: Ja, direkt bei der Bestellung der Quickline UHD Box oder im Nachhinein im Kun
 
 Q: Wie kann ich die Qualität meines WLAN-Empfangs verbessern?
 A: Quickline bietet ihnen eine kostenlose Software an, um den Empfang des WLAN-Signales zu kalibrieren und verbessern, die sie unter https://quickline.ch/media/1svdujmp/quickline_suiteinstaller.exe runterladen können. Die Software analysiert dein eigenes und die WLAN-Netze in der Umgebung und legt auf deinen Wunsch den besten Kanal fest.
+
+Q: Wo finde ich die Anleitung zur Installation vom Technicolor CGA2121 Modem?
+A: Die Anleitung zur Installation vom Technicolor CGA2121 Modem findest du hier: https://quickline.ch/media/tgdp3yup/ql_internet_modem_technicolor_cga2121.pdf
+
+Q: Wo finde ich die Anleitung zur Installation vom Technicolor TC7230 Modem?
+A: Die Anleitung zur Installation vom Technicolor TC7230 Modem findest du hier: https://quickline.ch/media/r5kf5uoc/ql_internet_modem_technicolor_tc7230.pdf
+
+Q: Wo finde ich die Anleitung zur Installation vom Huawei EG8247Q Modem?
+A: Die Anleitung zur Installation vom Huawei EG8247Q Modem findest du hier: https://quickline.ch/media/oyjjvb4x/ql_internet_modem-ftth-huawei-eg8247q.pdf
+
+Q: Wo finde ich die Anleitung zur Installation vom Huawei HG8247H Modem?
+A: Die Anleitung zur Installation vom Huawei HG8247H Modem findest du hier: https://quickline.ch/media/pp4ppjt3/ql_internet_modem-ftth-huawei-hg8247h.pdf
+
+Q: Wo finde ich die Anleitung zur Installation vom Quickline WLAN Plus?
+A: Die Anleitung zur Installation vom Quickline WLAN Plus findest du hier: https://quickline.ch/media/wwpj3ohh/ql_internet_wlan_plus_kurzanleitung.pdf
+
+Q: Wie finde ich die Dokumentation zur E-Mail Einstellungen?
+A: Die Dokumentation zur E-Mail Einstellungen finden sie hier: https://quickline.ch/media/punmlizs/ql_internet_maileinstellungen.pdf
+
+Q: Wo finde ich die Anleitung zur Fernbedienung der Quickline fürs TV-Gerät?
+A: Die Anleitung zur Fernbedienung der Quickline fürs TV-Gerät finden sie hier: https://quickline.ch/media/wuidfzro/ql_tv_anleitung-fernbedienung.pdf
+
+Q: Wo finde ich die Dokumentation der Parameter der einzelnen Kabelnetze?
+A: Die Dokumentation der Parameter der einzelnen Kabelnetze finden sie hier: https://quickline.ch/media/vujpiw00/ql_tv_frequenzliste-parameter.pdf
+
+Q: Wo finde ich die Dokumentation zur Quickline TV?
+A: Die Dokumentation zur Quickline TV finden sie hier: https://quickline.ch/media/zo0fyomg/ql_tv_quick-start_tv-guide.pdf
+
+Q: Wo finde ich die Dokumentation zur Quickline TV-Box?
+A: Die Dokumentation zur Quickline TV-Box finden sie hier: https://quickline.ch/media/r5nh104f/ql_tv_installationsanleitung_tv-box.pdf
+
+Q: Wo finde ich das Benutzerhandbuch von der Quickline TV?
+A: Das Benutzerhandbuch von der Quickline TV finden sie hier: https://quickline.ch/media/qv1hnfue/ql_tv_benutzerhandbuch_ql-tv.pdf
+
+Q: Wo finde ich das Benutzerhandbuch von der Quickline Mobil-TV?
+A: Das Benutzerhandbuch von der Quickline Mobil-TV finden sie hier: https://quickline.ch/media/4mrlecz4/ql_mobile_benutzerhandbuch.pdf
+
+Q: Wo finde ich die Dokumentation zur Ländergruppen Roaming?
+A: Die Dokumentation zur Ländergruppen Roaming finden sie hier: https://quickline.ch/media/b2tb0pyp/ql_mobile_laendergruppen-roaming.pdf
+
+Q: Wo finde ich die Dokumentation zum Roaming Cockpit?
+A: Die Dokumentation zum Roaming Cockpit finden sie hier: https://quickline.ch/media/hdtl4rcz/ql_mobile_roaming-cockpit.pdf
+
+Q: Wo finde ich die Dokumentation zu den Festnetztelefonie Zusatzdiensten?
+A: Die Dokumentation zu den Festnetztelefonie Zusatzdiensten finden sie hier: https://quickline.ch/media/jgqbki3m/ql_festnetz_zusatzdienste-festnetztelefonie.pdf
+
+Q: Wo finde ich die Dokumentation zu den Festnetz Tarifen Inland (Swiss Flat, Flatline und Festnetz Basic)?
+A: Die Dokumentation zu den Festnetz Tarifen Inland (Swiss Flat, Flatline und Festnetz Basic) finden sie hier: https://quickline.ch/media/oybagjrg/ql_festnetz_tarife-inland-alte-abos.pdf
+
+Q: Wo finde ich das Festnetz Belaestigungsformular?
+A: Das Festnetz Belaestigungsformular finden sie hier: https://quickline.ch/media/5rtfp2k3/ql_festnetz_belaestigungsformular.pdf
