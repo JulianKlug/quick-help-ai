@@ -82,7 +82,7 @@ export default function Header() {
             <ChatWrapper messages={feed} isTyping={isTyping} />
           </div>
           <div style={{ padding: "2em" }}>
-            <span>Nicht gefunden was du suchts? Frag mal nach Reto.</span>
+            <span>Nicht gefunden was du suchst? Frag mal nach Reto.</span>
           </div>
         </div>
       </div>
